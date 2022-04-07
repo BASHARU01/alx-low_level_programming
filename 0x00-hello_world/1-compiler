@@ -1,2 +1,2 @@
 #!/bin/bash 
-gcc -S $CFILE > comp.o 
+gcc -c $CFILE > comp.o 
